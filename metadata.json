@@ -1,0 +1,5 @@
+{
+  "name": "AI Profession Analyzer",
+  "description": "Analyzes whether a profession can be replaced by AI, providing explanations and generated images.",
+  "requestFramePermissions": []
+}
